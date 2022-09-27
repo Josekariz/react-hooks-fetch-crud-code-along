@@ -35,6 +35,48 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Ice cream",
+      "category": "Dairy",
+      "isInCart": true,
+      "id": 7
+    },
+    {
+      "name": "meat",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "jelly",
+      "category": "Dessert",
+      "isInCart": true,
+      "id": 9
+    },
+    {
+      "name": "jelly",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "jelly",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "pizza",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "lorry",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 13
     }
   ]
 }
